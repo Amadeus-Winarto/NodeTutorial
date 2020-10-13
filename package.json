@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "This is the Git and Node basic learning project",
-  "main": "index.js",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-     "url": "git@github.com:Amadeus-Winarto/NodeTutorial.git"
+    "url":  "git@github.com:Amadeus-Winarto/NodeTutorial.git"
   },
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/Amadeus-Winarto/NodeTutorial/blob/main/README.md",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
   }
 }
