@@ -10,12 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url":  "git@github.com:Amadeus-Winarto/NodeTutorial.git"
+    "url": "git@github.com:Amadeus-Winarto/NodeTutorial.git"
   },
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/Amadeus-Winarto/NodeTutorial/blob/main/README.md",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
